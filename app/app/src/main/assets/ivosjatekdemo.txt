@@ -1,0 +1,7 @@
+Ez egy kibaszott sütő! Annyiszor # korty ahány sütő van a házban;NULL;0;0;9;7;5;3;2
+Aki másmilyen széken ül mint a többség@; kioszthat # kortyot;1;0;11;9;7;5;3
+Szavazás! Tömény, kevert vagy sör?^Kisebbség iszik # kortyot;Tömény^Kevert^Sör;2;0;10;8;6;4;2
+Szavazás! Ki itta a legkevesebbet?;Lehúzza a piáját;3;0;-1;-1;5;3;2
+Pornósztárok/nők, aki kifogy 1 felest iszik;NULL;4;0;0;0;0;0;0
+Gyümölcsök, aki kifogy # kortyot iszik@;, ha valaki paradicsomot mond 1 felest iszik;5;0;11;9;7;5;3
+Ha 70 % alatt van a telód, igyál # kortyot amikor használod a játék végéig, ha felette van igyál # kortyot és ha 70% alá megy az előző érvényes;NULL;6;-1;9^14;5^10;3^8;2^6;1^4

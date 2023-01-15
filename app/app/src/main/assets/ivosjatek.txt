@@ -1,0 +1,100 @@
+1;Ez egy kibaszott sütő! Annyiszor # korty ahány sütő van a házban;NULL;0;9;7;5;3;2
+2;Többen jobb! Annyiszor # korty ahányan játszotok;NULL;0;6;4;2;1;1
+3;Mindenki lehúzza a piáját;NULL;0;-1;-1;5;3;2
+4;Mindenki iszik # kortyot;NULL;0;10;8;6;4;2
+5;Akin van zokni iszik # kortyot;NULL;0;9;7;5;3;2
+6;Minden 2. ember iszik a telefontól jobbra kezdődően # kortyot;NULL;0;9;7;5;3;2
+7;Akinek nincs tömény a piájában töltsön bele egy felest;NULL;0;0;0;0;0;0
+8;Aki nem ivott még csövesgránátot igyon # kortyot;NULL;0;11;9;7;5;3
+9;Ha rumot iszol ossz ki # kortyot;NULL;0;9;7;5;3;2
+10;Ha vodkát iszol ossz ki # kortyot;NULL;0;9;7;5;3;2
+11;Ha tequilát iszol igyál 1 felest;NULL;0;0;0;0;0;0
+12;Ha hoztál pálinkát akkor válassz ki 2 embert akikel 1-1 felest iszol;NULL;0;0;0;0;0;0
+13;Ha nappal játszotok igyatok # kortyot;NULL;0;9;7;5;3;2
+14;Ha lement már a nap igyatok annyiszor # kortyot ahány órája lement;NULL;0;6;4;2;1;1
+15;Ha nem magyar zenét hallgattok igyatok # kortyot, még # kortyot ha nem tudod megnevezni;NULL;0;9^7;7^5;5^3;3^2;2^1
+16;Aki oldalán legrövidebb a terítő az iszik # kortyot, ha nincs terítő mindenki iszik;NULL;0;11;9;7;5;3
+17;Ha nem ittál még KingsCupot amióta itt vagy tölts egy másféle tömény-felest a piádba;NULL;0;0;0;0;0;0
+18;Aki pulcsiban van fázik, vegye le és igyon 1 felest;NULL;0;0;0;0;0;0
+19;Aki nem papucsban van annak fázik a lába, igyon # kortyot;NULL;0;9;7;5;3;2
+20;Akinek van JBL-je iszik # kortyot, de ha hoztad kioszthatsz # kortyot;NULL;0;10^10;8^8;6^6;4^4;2^2
+21;Ha te szervezeted az ivászatot kioszthatsz # kortyot, de alkoholista vagy, választhatsz egy felest;NULL;0;16;14;12;10;8
+22;Ha nincs még 20 óra húzd le a piád, ha van már akkor # korty;NULL;0;9;7;5;3;2
+23;Ha párkapcsolatban vagy igyál # kortyot, de legalább neked van;NULL;0;9;7;5;3;2
+24;Ha te ittál legutóbb kioszthatsz ugyan annyit (stackelhető);NULL;0;0;0;0;0;0
+25;Szar a DJ! Igyon # kortyot és tegyen más ember zenét;NULL;0;9;7;5;3;2
+26;Aki késleltette a játék indulását iszik egy felest;NULL;0;0;0;0;0;0
+27;A legrészegebb nem tud magáról, véletlen indít egy waterfallt;NULL;0;0;0;0;0;0
+28;A felolvasó sokat fáradozik játék során, megérdemel egy waterfallt;NULL;0;0;0;0;0;0
+29;Annak aki legutóbb volt mosdóban, üres a hólyagja, töltse meg egy waterfallal (ő az utolsó);NULL;0;0;0;0;0;0
+30;Be kell valljam! A játék készítői félistenek, ezért annyi kortyot oszthatnak ki mint amennyit isznak és még 1 felest;NULL;0;0;0;0;0;0
+31;Tippelni kell az időre, aki legközelebb van hozzá kioszthat # kortyot;NULL;0;12;10;8;6;4
+32;A párok össze vannak kötve a következő # alkalommal;NULL;0;7;5;3;2;1
+33;Aki 2 vagy kevesebb hete volt fodrásznál@; iszik # kortyot;1;11;9;7;5;3
+34;Aki másmilyen széken ül mint a többség@; kioszthat # kortyot;1;11;9;7;5;3
+35;Ha nem hánytál még amióta itt vagy@; iszol # kortyot;1;10;8;6;4;2
+36;Ha valakit ütöttek már meg az este alatt@; igyon # kortyot, hogy ne érezze;1;10;8;6;4;2
+37;Akinek a leghidegebb a keze@; iszik # kortyot. Koronavírus van, annyiszor # kortyot iszol ahány kezet megfogtál, az alkohol fertőtlenít;1;10^7;8^5;6^3;4^2;2^1
+38;Akin a legsötétebb alsó van@; kioszt # kortyot;1;11;9;7;5;3
+39;Ha be van törve a telód@; kioszthatsz # kortyot;1;12;10;8;6;4
+40;@ annyit ahány játék van a telefonodon ;Kortyolj;1;0;0;0;0;0
+41;Legsoványabb ember@; iszik # kortyot;1;9;7;5;3;2
+42;Legkönnyebb ember@; iszik # kortyot;1;10;8;6;4;2
+43;Legsúlyosabb ember@; kioszthat # kortyot;1;11;9;7;5;3
+44;Legkövérebb ember@; kioszthat # kortyot;1;9;7;5;3;2
+45;Legmagasabb ember@; iszik # kortyot;1;10;8;6;4;2
+46;Legalacsonyabb ember@; kioszthat # kortyot;1;12;10;8;6;4
+47;Legnagyobb lábú ember@; kioszthat # kortyot;1;10;8;6;4;2
+48;Legkisebb lábú ember@; iszik # kortyot;1;9;7;5;3;2
+49;Ahányféle dolog van a zsebedben@; annyiszor # korty;1;6;4;2;1;1
+50;Ha kisebbségbe tartozol@; kioszthatsz # kortyot;1;9;7;5;3;2
+51;Ha nincs 20 órád Steamen elmúlt 2 hétben@; iszol # kortyot;1;10;8;6;4;2
+52;Aki legkésőbb érkezett@; igyon # kortyot;1;12;10;8;6;4
+53;Ha nem osztottál még a játékban@;, kioszthatsz # kortyot, de szerencsétlen vagy, igyál egy felest;1;11;9;7;5;3
+54;Ha osztozol valakivel egy szobán itt/nincs saját szobád otthon@;, kioszthatsz #-# kortyot;1;9^9;7^7;5^5;3^3;2^2
+55;Ha a te ötletedből játszottunk ittlétünk során játekot@;, kioszthatsz # kortyot;1;9;7;5;3;2
+56;Aki volt, hogy nem olvasott el kötelező olvasmányt@; igyon # kortyot;1;10;8;6;4;2
+57;Akin nincs zokni iszik # kortyot;NULL;0;11;9;7;5;3
+58;Akin nincs póló@; kioszthat # kortyot, aki leveszi iszik # kortyot;1;12^9;10^7;8^5;6^3;4^2
+59;Ki volt mához legközelebb kondiba?@; Kurva erős vagy, igyál egy felest;1;0;0;0;0;0
+60;Szavazás! Vodka vagy Rum?^Kisebbség iszik # kortyot;Vodka^Rum;2;10;8;6;4;2
+61;Szavazás! Tömény, kevert vagy sör?^Kisebbség iszik # kortyot;Tömény^Kevert^Sör;2;10;8;6;4;2
+62;Szavazás! Csocsó vagy pingpong?^Kisebbség iszik # kortyot;Csocsó^Pingpong;2;10;8;6;4;2
+63;Szavazás! Kelet-európai kommunizmus vagy Hitleri nácizmus?^Kisebbség iszik # kortyot;Kelet-európai kommunizmus^Hitleri nácizmus;2;10;8;6;4;2
+64;Szavazás! Anime vagy animációs film?^Kisebbség iszik # kortyot;Anime^Animációs film;2;10;8;6;4;2
+65;Szavazás! HBO MAX vagy Netflix?^Kisebbség iszik # kortyot;HBO MAX^Netflix;2;10;8;6;4;2
+66;Szavazás! Arcszőr vagy borotválkozás?^Kisebbség iszik # kortyot;Arcszőr^Borotválkozás;2;10;8;6;4;2
+67;Szavazás! Meki, Burger King vagy KFC?^Kisebbség iszik # kortyot;Meki^Burgerking^Kfc;2;10;8;6;4;2
+68;Szavazás! Melyikből lennél sokkal összezárva inkább? Pókokkal vagy meztelencsigákkal?^Kisebbség iszik # kortyot;Pókokkal^Meztelencsigákkal;2;10;8;6;4;2
+69;Szavazás! Kőbányai vagy Ászok?^Kisebbség iszik # kortyot;Kőbányai^Ászok;2;10;8;6;4;2
+70;Szavazás! Family Guy vagy South Park?^Kisebbség iszik # kortyot;Family guy^South Park;2;10;8;6;4;2
+71;Szavazás! AK26 vagy BSW?^Kisebbség iszik # kortyot;AK26^BSW;2;10;8;6;4;2
+72;Szavazás! IOS vagy Android?^Kisebbség iszik # kortyot;IOS^Android;2;10;8;6;4;2
+73;Szavazás! Orál vagy anál?^Kisebbség iszik # kortyot;Orál^Anál;2;10;8;6;4;2
+74;Szavazás! Inkább lennél egy emberméretű egér vagy egy egérméretü ember?^Kissebbség iszik # kortyot;Emberméretű egér^Egérméretű ember;2;10;8;6;4;2
+75;Szavazás! Hogy játszod a sörpongot? Pattintva vagy egyből dobva?^Ha egyből dobva igyál # kortyot;Pattintva^Egyből dobva;2;12;10;8;6;4
+76;Szavazás! Strandon lángost, hamburgert vagy gyrost ennél?^Ha pizzát akkor igyál # kortyot. Kisebbség iszik # kortyot. ;Lángos^Hamburger^Gyros^Egyéb(Pl. pizza);2;10^11;8^9;6^7;4^5;2^3
+77;Szavazás! Paradicsom zöldség vagy gyümölcs?^Aki a gyümölcsre szavazott iszik # kortyot. Kisebbség iszik # kortyot;Zöldség^Gyümölcs;2;9^12;7^10;5^8;3^6;2^4
+78;Szavazás! Ki itta a legkevesebbet?;Lehúzza a piáját;3;-1;-1;5;3;2
+79;Szavazás! Ki a legrészegebb?;Kimarad 3 alkalomból;3;0;0;0;0;0
+80;Szavazás! Szerintetek ki csalt már waterfallban a játék folyamán?;Lehúzza a piáját;3;-1;-1;5;3;2
+81;Sörmárkák, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+82;Vodkamárkák, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+83;Alkoholfajták, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+84;Pornósztárok/nők, aki kifogy 1 felest iszik;NULL;4;0;0;0;0;0
+85;Pokemonok, aki kifogy # kortyot iszik ;NULL;4;11;9;7;5;3
+86;Kiadott Bojler Brother számok, aki kifogy # kortyot iszik;NULL;4;12;10;8;6;4
+87;Bruce Willis filmjei, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+88;HBO saját sorozatai, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+89;Netflix saját sorozatai, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+90;Csokifajták, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+91;Kutyafajták, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+92;Üdítők, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+93;Konyhai dolgok, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+94;Társasjátékok, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+95;Játékosok exeinek keresztnevei (saját nem ér), feles;NULL;4;0;0;0;0;0
+96;Spin the bottle 2szer, össze vagytok kötve # alkalommal oda vissza;NULL;4;6;4;2;1;1
+97;Gyümölcsök, aki kifogy # kortyot iszik@;, ha valaki paradicsomot mondott 1 felest iszik;5;11;9;7;5;3
+98;Zöldségek, aki kifogy # kortyot iszik@;, ha valaki görögdinnyét mondott 1 felest iszik;5;11;9;7;5;3
+99;Ha 70 % alatt van a telód, igyál # kortyot amikor használod a játék végéig, ha felette van igyál # kortyot és ha 70% alá megy az előző érvényes;NULL;0;9^14;5^10;3^8;2^6;1^4
+100;Ha nem tudod a zene címét, iszol 3 kortyot. Kövi 3 zenére érvényes, ha a 3-ból 1-et se tudsz feles;NULL;0;7;5;3;2;1

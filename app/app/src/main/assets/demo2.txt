@@ -1,0 +1,24 @@
+78;Szavazás! Vodka vagy Rum?^Kisebbség iszik # kortyot;Vodka^Rum;2;10;8;6;4;2
+79;Szavazás! Tömény, kevert vagy sör?^Kisebbség iszik # kortyot;Tömény^Kevert^Sör;2;10;8;6;4;2
+80;Szavazás! Csocsó vagy pingpong?^Kisebbség iszik # kortyot;Csocsó^Pingpong;2;10;8;6;4;2
+81;Szavazás! Kelet-európai kommunizmus vagy Hitleri nácizmus?^Kisebbség iszik # kortyot;Kelet-európai kommunizmus^Hitleri nácizmus;2;10;8;6;4;2
+82;Szavazás! Anime vagy animációs film?^Kisebbség iszik # kortyot;Anime^Animációs film;2;10;8;6;4;2
+83;Szavazás! Arcszőr vagy borotválkozás?^Kisebbség iszik # kortyot;Arcszőr^Borotválkozás;2;10;8;6;4;2
+84;Szavazás! Meki, Burger King vagy KFC?^Kisebbség iszik # kortyot;Meki^Burgerking^Kfc;2;10;8;6;4;2
+85;Szavazás! Melyikből lennél sokkal összezárva inkább? Pókokkal vagy meztelencsigákkal?^Kisebbség iszik # kortyot;Pókokkal^Meztelencsigákkal;2;10;8;6;4;2
+86;Szavazás! Kőbányai vagy Ászok?^Kisebbség iszik # kortyot;Kőbányai^Ászok;2;10;8;6;4;2
+87;Szavazás! IOS vagy Android?^Kisebbség iszik # kortyot;IOS^Android;2;10;8;6;4;2
+88;Szavazás! Inkább lennél egy emberméretű egér vagy egy egérméretü ember?^Kissebbség iszik # kortyot;Emberméretű egér^Egérméretű ember;2;10;8;6;4;2
+89;Szavazás! Strandon lángost, hamburgert vagy gyrost ennél?^Ha pizzát akkor igyál # kortyot. Kisebbség iszik # kortyot. ;Lángos^Hamburger^Gyros^Egyéb(Pl. pizza);2;10^11;8^9;6^7;4^5;2^3
+90;Szavazás! Paradicsom zöldség vagy gyümölcs?^Aki a gyümölcsre szavazott iszik # kortyot, hátha megtanulja. Kisebbség iszik # kortyot;Zöldség^Gyümölcs;2;9^12;7^10;5^8;3^6;2^4
+91;Szavazás! HBO GO/Netflix/Amazon Prime/Disney+?^Kisebbség iszik # kortyot;HBO GO^Netflix^Amazon Prime^Disney+;2;10;8;6;4;2
+92;Szavazás! Family Guy vagy South Park?^Kisebbség iszik # kortyot;Family Guy^South Park;2;10;8;6;4;2
+93;Szavazás! Szar a DJ?^Igyon # kortyot és tegyen más ember zenét, ha megszavazzák, hogy jó, igyon mindenki más # kortyot;Szar a DJ^Nem szar a DJ;2;9^6;7^4;5^2;3^1;2^1
+94;Szavazás! Unicum vagy Jäger?^Kisebbség iszik # kortyot;Unicum^Jager;2;10;8;6;4;2
+95;Szavazás! Meggyes sör vagy normális sör?^Kisebbség iszik # kortyot;meggyes sör^normális sör;2;10;8;6;4;2
+96;Szavazás! Csecs vagy segg? Melyik fontosabb?^Kisebbség iszik # kortyot;csecs^segg;2;10;8;6;4;2
+97;Szavazás! Kiülés vagy kocsma?^Kisebbség iszik # kortyot;kiülés^kocsma;2;8;6;4;2;1
+98;Szavazás! 100 kacsa méretű elefánttal vagy 1 elefánt méretű kacsával küzdenél meg?^Kisebbség iszik # kortyot!;100 kacsa méretű elefánttal^1 elefánt méretű kacsával;2;8;6;4;2;1
+99;Térdek vagy könyökök nélkül élnél szívesebben?^Kisebbség iszik # kortyot!;térdek nélkül^könyökök nélkül;2;8;6;4;2;1
+100;Inkább nem hazudnál vagy mindent elhinnél?^Kisebbség iszik # kortyot!;nem hazudnék^mindent elhinnék;2;8;6;4;2;1
+101;Szavazás! Ki szerint csicska Donát?^Aki Donát és aki kisebbségbe van iszik 4/6 kortyot.;Donát csicska^Donát nem csicska;2;8;6;4;2;1

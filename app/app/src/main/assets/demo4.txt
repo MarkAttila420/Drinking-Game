@@ -1,0 +1,28 @@
+109;Sörmárkák, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+110;Vodkamárkák, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+111;Alkoholfajták, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+112;Kiadott Bojler Brother számok, aki kifogy # kortyot iszik;NULL;4;12;10;8;6;4
+113;HBO saját sorozatai, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+114;Netflix saját sorozatai, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+115;Kutyafajták, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+116;Üdítők, aki kifogy # kortyot iszik;NULL;4;11;9;7;5;3
+117;Játékosok exeinek keresztnevei (saját nem ér), aki kifogy iszik # kortyot;NULL;4;11;9;7;5;3
+118;Spin the bottle 2szer, össze vagytok kötve # alkalommal oda vissza;NULL;4;6;4;2;1;1
+119;Pörgetés! Akire mutat iszik egy felest (3szor kell kipörgetni, a végén mindenki annyit iszik ahányszor ki van pörgetve, kivéve aki 3-szor, mert az felest);NULL;4;0;0;0;0;0
+120;Minecraft bossok, aki az utolsót mondja iszik # kortyot. Ha először van ez a feladat, akkor a kezdő/pörgetett iszik annyit;NULL;4;9;7;5;3;2
+121;Pörgessetek! Akire mutat mond egy Én még sohasem...-et, aki nem csinálta # kortyot iszik;NULL;4;9;7;5;3;2
+122;Minden hüvelykujj az asztalon, akinek utolsónak marad kioszthat # kortyot (valaki kapja, aki ki van pörgetve);NULL;4;11;9;7;5;3
+123;Skip kártya;NULL;4;0;0;0;0;0
+124;Skip kártya;NULL;4;0;0;0;0;0
+125;Skip kártya;NULL;4;0;0;0;0;0
+126;ABC játék, minden általad kimondott betűre egyet kell inni, aki kiesik annyiszor # korty ahányan még bent vannak;NULL;4;6;4;2;1;1
+127;Szólánc, ismétlő iszik # kortyot!;NULL;4;9;7;5;3;2
+128;Kő-Papír-Olló bajnokság, mindenki a szembe ülővel. Minden győzelem 2/3 korty, ha nem nyertél 5/7 korty, végső győztesnek feles. (Ha páratlanul vagytok, a vesztesek közül pörget az aki nem kapott);NULL;4;6^9;4^7;2^5;1^3;1^2
+129;Sf-termek nevei! Vesztes iszik # kortyot!;NULL;4;7;5;3;2;1
+130;Sf-koktélok felsorolása! Vesztes iszik # kortyot!;NULL;4;8;6;4;2;1
+131;Kocsma felsorolás! Vesztes iszik # kortyot!;NULL;4;9;7;5;3;2
+132;LoL champek abc szerint! Vesztes iszik # kortyot!;NULL;4;8;6;4;2;1
+133;Valakinek kell mondani magáról 2 igazt és 1 hamist, nem talált=6 korty;NULL;4;10;8;6;4;2
+134;Valakinek kell mondani magáról 2 igaz 1 hamis, nem talált=6 korty;NULL;4;10;8;6;4;2
+135;Valakinek kell mondani magáról igaz/hamis dolgot, nem talált=5 korty;NULL;4;9;7;5;3;2
+136;Valakinek kell mondani magáról igaz/hamis dolgot, nem talált=5 korty;NULL;4;9;7;5;3;2

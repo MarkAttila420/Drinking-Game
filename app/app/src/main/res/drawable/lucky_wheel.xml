@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item
+        android:drawable="@drawable/lw01"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw02"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw03"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw04"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw05"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw06"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw07"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw08"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw09"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw10"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw11"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw12"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw13"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw14"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw15"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/lw16"
+        android:duration="100" />
+
+</animation-list>

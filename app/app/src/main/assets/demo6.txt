@@ -1,0 +1,11 @@
+137;Sörmárkák, amennyit 15 másodperc alatt felsorolsz@;, annyit oszthatsz;6;15;15;15;15;15
+138;Vodkamárkák, amennyit 15 másodperc alatt felsorolsz@;, annyit oszthatsz;6;15;15;15;15;15
+139;Alkoholfajták, amennyit 15 másodperc alatt felsorolsz@;, annyit oszthatsz;6;15;15;15;15;15
+140;Pornósztárok/nők, amennyit 15 másodperc alatt felsorolsz@;, annyit oszthatsz;6;15;15;15;15;15
+141;Pokemonok, amennyit 15 másodperc alatt felsorolsz@;, annyit oszthatsz;6;15;15;15;15;15
+142;Kiadott Bojler Brothers számok, amennyit 15 másodperc alatt felsorolsz(Kolos iszik 5 kortyot, mert elírta a Bojler Brothers-t)@;, annyit oszthatsz;6;15;15;15;15;15
+143;Csokifajták, amennyit 15 másodperc alatt felsorolsz@;, annyit oszthatsz;6;15;15;15;15;15
+144;Kutyafajták, amennyit 15 másodperc alatt felsorolsz@;, annyit oszthatsz;6;15;15;15;15;15
+145;Gyümölcsök, amennyit 15 másodperc alatt felsorolsz;, annyit oszthatsz, ha a paradicsomot mondja 1 felest iszik;6;15;15;15;15;15
+146;Zöldségek, amennyit 15 másodperc alatt felsorolsz;, annyit oszthatsz, ha görögdinnyét mond 1 felest iszik;6;15;15;15;15;15
+147;Üdítők, amennyit 15 másodperc alatt felsorolsz@;, annyit oszthatsz;6;15;15;15;15;15

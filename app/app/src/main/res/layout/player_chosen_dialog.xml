@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/player_chosen_text"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="kecske"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textSize="50dp"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bPlayerChosenOk"
+        android:background="@drawable/ok_button"
+        android:hapticFeedbackEnabled="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="5dp"/>
+
+</LinearLayout>

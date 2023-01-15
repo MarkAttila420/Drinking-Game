@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/jpolc_1"
+        android:duration="1800000" />
+    <item
+        android:drawable="@drawable/jpolc_2"
+        android:duration="1800000" />
+    <item
+        android:drawable="@drawable/jpolc_3"
+        android:duration="1800000" />
+    <item
+        android:drawable="@drawable/jpolc_4"
+        android:duration="999999999"/>
+</animation-list>

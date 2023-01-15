@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    >
+
+    <EditText
+        android:id="@+id/player_name"
+        android:hint="Name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:maxLines="1"
+        android:inputType="textPersonName"
+        android:digits="0123456789qwertzuiopőúöüóűáélkjhgfdsaíyxcvbnmQWERTZUIOPŐÚÓÜÖŰÁÉLKJHGFDSAÍYXCVBNM "
+        />
+
+</LinearLayout>

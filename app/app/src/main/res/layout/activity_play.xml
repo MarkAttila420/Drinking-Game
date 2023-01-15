@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/loPlay"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wall"
+    tools:context=".Play">
+
+    <ImageView
+        android:id="@+id/play_bb"
+        android:layout_width="90dp"
+        android:layout_height="100dp"
+        app:layout_constraintBottom_toBottomOf="@+id/play_bpolc"
+        app:layout_constraintEnd_toStartOf="@+id/play_jpolc"
+        app:layout_constraintStart_toEndOf="@+id/play_bpolc"
+        app:layout_constraintTop_toTopOf="@+id/play_bpolc"
+        android:background="@drawable/bb" />
+
+    <ImageView
+        android:id="@+id/play_bpolc"
+        android:layout_width="132dp"
+        android:layout_height="223dp"
+        android:layout_marginBottom="100dp"
+        android:background="@drawable/bpolc_animate"
+        app:layout_constraintBottom_toTopOf="@+id/bBackPlay"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/play_jpolc"
+        android:layout_width="133dp"
+        android:layout_height="232dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/play_bpolc"
+        android:background="@drawable/jpolc_animate" />
+
+    <ImageView
+        android:id="@+id/play_pult"
+        android:layout_width="wrap_content"
+        android:layout_height="250dp"
+        android:background="@drawable/pult_animate"
+        android:scaleType="fitEnd"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/play_tabla"
+        android:layout_width="380dp"
+        android:layout_height="240dp"
+        android:layout_marginTop="124dp"
+        android:background="@drawable/tabla_animate"
+        android:scaleType="fitStart"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.483"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bNextPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/nextarrow_button"
+        android:hapticFeedbackEnabled="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/bBackPlay"
+        app:layout_constraintTop_toTopOf="@+id/bBackPlay" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bExitPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"
+        android:background="@drawable/exit_button"
+        android:hapticFeedbackEnabled="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bBackPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80dp"
+        android:background="@drawable/backarrow_button"
+        android:hapticFeedbackEnabled="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/bNextPlay"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/combobox"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/bNextPlay"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvPlayerName"
+        app:layout_constraintVertical_bias="0.449" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bWheelDecide"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/lucky_wheel"
+        android:hapticFeedbackEnabled="true"
+        app:layout_constraintBottom_toTopOf="@+id/bBackPlay"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvPlayerName" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/bStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/start_button"
+        android:hapticFeedbackEnabled="true"
+        app:layout_constraintBottom_toTopOf="@+id/bBackPlay"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/bWheelDecide"
+        app:layout_constraintTop_toBottomOf="@+id/tvPlayerName"
+        app:layout_constraintVertical_bias="0.506" />
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="331dp"
+        android:layout_height="195dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/play_tabla">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/test"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:lineSpacingMultiplier="1.2"
+                android:text="TextView"
+                android:textColor="@color/white"
+                android:textSize="32dp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/tvPlayerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textColor="@color/white"
+        android:background="@color/black"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/play_tabla" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

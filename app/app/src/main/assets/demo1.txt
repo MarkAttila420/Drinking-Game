@@ -1,0 +1,27 @@
+51;Aki 2 vagy kevesebb hete volt fodrásznál@; iszik # kortyot;1;11;9;7;5;3
+52;Aki másmilyen széken ül mint a többség@; kioszthat # kortyot;1;11;9;7;5;3
+53;Ha nem hánytál még amióta itt vagy@; iszol # kortyot;1;10;8;6;4;2
+54;Ha valakit ütöttek már meg az este alatt@; igyon # kortyot, hogy ne érezze;1;10;8;6;4;2
+55;Akin a legsötétebb alsó van@; kioszt # kortyot;1;11;9;7;5;3
+56;Ha be van törve a telód@; kioszthatsz # kortyot, legyen másnak is;1;12;10;8;6;4
+57;@ #/# annyit ahány játék van a telefonodon;Kortyolj;1;_^_;1^2;1^2;1^4;1^4
+58;Legsoványabb ember@; iszik # kortyot;1;9;7;5;3;2
+59;Legkönnyebb ember@; iszik # kortyot;1;10;8;6;4;2
+60;Legsúlyosabb ember@; kioszthat # kortyot;1;11;9;7;5;3
+61;Legkövérebb ember@; kioszthat # kortyot;1;9;7;5;3;2
+62;Legmagasabb ember@; iszik # kortyot;1;10;8;6;4;2
+63;Legalacsonyabb ember@; kioszthat # kortyot;1;12;10;8;6;4
+64;Legnagyobb lábú ember@; kioszthat # kortyot;1;10;8;6;4;2
+65;Legkisebb lábú ember@; iszik # kortyot;1;9;7;5;3;2
+66;Ahányféle dolog van a zsebedben@; annyiszor # korty;1;6;4;2;1;1
+67;Ha kisebbségbe tartozol@; kioszthatsz # kortyot, de vigyázz, mert megverhetnek;1;9;7;5;3;2
+68;Ha nincs 10 órád Steamen elmúlt 2 hétben@; iszol # kortyot;1;10;8;6;4;2
+69;Aki legkésőbb érkezett@; igyon # kortyot, zárkózzon fel;1;12;10;8;6;4
+70;Ha nem osztottál még a játékban@;, kioszthatsz # kortyot, de szerencsétlen vagy, igyál egy felest;1;11;9;7;5;3
+71;Ha osztozol valakivel egy szobán itt/nincs saját szobád otthon@;, kioszthatsz #-# kortyot;1;9^9;7^7;5^5;3^3;2^2
+72;Ha a te ötletedből játszottunk ittlétünk során játekot@;, kioszthatsz # kortyot;1;9;7;5;3;2
+73;Ki volt mához legközelebb kondiba?@; Kurva erős vagy, igyál egy felest;1;0;0;0;0;0
+74;Ha nincs 10 órád Riot Cliensben elmúlt 2 hétben@; iszol # kortyot;1;10;8;6;4;2
+75;Aki december előtt karácsonyi zenét hallgat@;iszik # kortyot;1;12;10;8;6;4
+76;Ha fent vagy Tinderen@;iszol # kortyot;1;9;7;5;3;2
+77;Annyiszor # kortyot @ ahány zh-n/dogán megbuktál ebben a félévben;iszol;1;4;2;1;1;1
